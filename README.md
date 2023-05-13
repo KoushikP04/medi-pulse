@@ -1,0 +1,4 @@
+# medi-pulse
+This program is a medical database that stores the information of patients, their prescriptions, and their appointments. This was created in collaboration with peers Shubho Mukherjee and Finnley Howald.
+
+Program Description: This program is a medical database that stores the information of patients, their prescriptions, and their appointments. The user is given the option to sign in as a receptionist or a doctor. Depending on which option they chose, they will have to enter a certain password and username to successfully log in. Once logged in successfully (if you chose receptionist), you will be able to 1) View All Appointments, 2) Add Appointment, 3) Register New Patient, 4) View All Patients, 5) Find Patient, 6) View All Prescriptions, or 7) Exit. If the user chose doctor and have logged in successfully, they will be able to 1) Check Your Appointments, 2) Add Prescription, or 3) Exit. Once the user chooses to exit, the program will end.
